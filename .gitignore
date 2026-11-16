@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+*.bin
+
+# Clé secrète du réseau : propre à chaque installation, ne jamais la publier
+common/network_key.h
