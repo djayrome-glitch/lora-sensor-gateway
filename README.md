@@ -18,6 +18,7 @@ common/        protocole radio partagé (format des paquets, signature, paramèt
   network_key.example.h   ← modèle de la clé secrète partagée
 gateway/       firmware de la passerelle T-Deck Plus (PlatformIO)
 node/          firmware des nœuds capteurs (PlatformIO, 3 environnements)
+ssh-client/    bonus : client SSH Wi-Fi pour le T-Deck (voir ssh-client/README.md)
 ```
 
 ## Matériel
